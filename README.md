@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi, I'm Ilyes Taha
 
-<!--
-**ilyes-taha/ilyes-taha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring front-end developer interested in building modern, responsive, and user-friendly websites.
 
-Here are some ideas to get you started:
+About Me :
+- Currently studying: Master's degree in Artificial Intelligence.
+- Currently learning: React, Tailwind CSS, and GSAP.
+- Interested in: Front-end development, UI/UX, and freelance web projects.
+- Working toward: Building a strong portfolio and collaborating with clients.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack :
+- HTML5.
+- CSS3.
+- JavaScript.
+- React.
+- Tailwind CSS.
+- Git and GitHub.
+        
+Education :
+- Bachelor's degree in Computer Science — Specialization in Information Systems and Software Engineering (ISIL).
+- Currently pursuing a Master's degree in Artificial Intelligence.
+
+Connect With Me :
+- LinkedIn: [coming...]
+- Portfolio: [coming...]
